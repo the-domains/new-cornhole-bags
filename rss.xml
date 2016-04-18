@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[New Cornhole Bags]]></title>
         <description><![CDATA[New Cornhole Bags]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/new-cornhole-bags/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 04:41:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Apr 2016 04:47:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/new-cornhole-bags/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9fe28ff6-7683-4f3d-bab4-e6b0dbdaf2fc.jpg">]]></description>
+            <link>https://thegrid.ai/new-cornhole-bags/new-cornhole-boards/index.html</link>
+            <guid isPermaLink="false">74a3366d-91c0-4b57-bd41-83a17bb97d57</guid>
+            <pubDate>Mon, 18 Apr 2016 04:47:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6c76d60-2967-42d5-aad0-9f38b4fa9ad8.jpg">]]></description>
-            <link>undefinednew-cornhole-bags/index.html</link>
+            <link>https://thegrid.ai/new-cornhole-bags/new-cornhole-bags/index.html</link>
             <guid isPermaLink="false">95805ac0-fabb-4e6b-9511-304865537d3a</guid>
             <pubDate>Mon, 18 Apr 2016 04:41:24 GMT</pubDate>
         </item>
