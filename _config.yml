@@ -1,0 +1,28 @@
+name: New Cornhole Bags
+favicon: null
+layout_spectrum: 0.9964171047322452
+typography_spectrum: 0.4964772849343717
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7223464085254818
+  lightness: 0.8513341201469302
+  saturation: 0.7438598007429391
+  rhythmicContrast: 0.8624862779397517
+purpose: []
